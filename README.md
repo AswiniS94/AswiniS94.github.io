@@ -3,24 +3,24 @@
 PhD Candidate in Computer Science · Oakland University, Rochester MI  
 [GitHub](https://github.com/AswiniS94) · [LinkedIn](https://www.linkedin.com/in/aswini-sivakumar-msmba/) · [aswinisivakumar@oakland.edu](mailto:aswinisivakumar@oakland.edu)
 
-![Profile Photo](profilepic.jpg)
+<img src="profilepic.jpg" alt="Aswini Sivakumar" width="150" style="border-radius: 10%;" />
 
 ---
 
 ## About
 
-I am a PhD student in Computer Science at Oakland University, working at the intersection of computer vision, autonomous driving, and vision-language models. My research focuses on building systems that can perceive, reason, and act in complex real-world driving environments using retrieval-augmented generation and contrastive learning.
+I am a PhD student in Computer Science at Oakland University, working at the intersection of computer vision, autonomous systems, and vision-language models. My research focuses on building systems that can perceive, reason, and act in complex real-world environments using retrieval-augmented generation and contrastive learning.
 
 ---
 
 ## Research Interests
 
-- **Autonomous Driving** — End-to-end driving pipelines with multi-modal perception; RAG-based driving systems (RAGDriver) using Video-LLaVA on the BDDX dataset
-- **Vision-Language Models** — Fine-tuning and adapting large VLMs for scene understanding, action prediction, and justification generation
-- **Retrieval-Augmented Generation** — Hybrid retrieval (BM25 + dense), InfoNCE contrastive learning, Milvus vector databases, and RAG evaluation frameworks
-- **Computer Vision & NLP** — Object detection (YOLO-World), semantic embeddings, sentiment analysis, and biomedical text mining
-- **AI Safety & Robustness** — Adversarial robustness, sensor spoofing defenses, FGSM attacks, and cybersecurity in autonomous systems
-- **Applied ML** — Predictive modeling for healthcare, energy forecasting, and business analytics
+- **Autonomous Driving** - End-to-end autonomous pipelines with multi-modal perception
+- **Vision-Language Models** - Fine-tuning and adapting large VLMs for scene understanding, action prediction, and justification generation
+- **Retrieval-Augmented Generation** - Hybrid retrieval and evaluation frameworks
+- **Computer Vision & NLP** - Object detection, semantic embeddings, sentiment analysis, and biomedical text mining
+- **AI Safety & Robustness** - Safety in autonomous systems
+- **Applied ML** - Predictive modeling for healthcare, energy forecasting, and business analytics
 
 ---
 
@@ -28,7 +28,7 @@ I am a PhD student in Computer Science at Oakland University, working at the int
 
 **Ph.D. in Computer Science**  
 Oakland University · Rochester, MI · 2024 – Present  
-Research in vision-language models, retrieval-augmented generation, and autonomous driving systems. Dissertation work centers on RAGDriver — a retrieval-augmented framework that fine-tunes Video-LLaVA-7B with In-Context Learning on the BDDX driving dataset to generate grounded action predictions and natural language justifications. Core contributions include InfoNCE-based contrastive retrieval training, hierarchical vector search with Milvus, and large-scale training with DeepSpeed ZeRO-3 on A100 GPUs.
+Working under the supervision of [Dr. Yao Qiang](https://qiangyao1988.github.io/) in the Secure, Aligned, Fair, and Ethical (SAFE) AI Research Lab.
 
 **M.S. in Business Analytics**  
 Oakland University · Rochester, MI  
