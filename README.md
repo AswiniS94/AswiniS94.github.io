@@ -23,7 +23,6 @@ I am a PhD student in Computer Science at Oakland University, working at the int
 | *11.2024* | Won [SAS Hacakthon 2024](https://www.oakland.edu/news/business/2024/ou-business-students-continue-winning-ways-at-2024-sas-hackathon/) in Energy track|
 | *03.2024* | Presented at the *Interdisciplinary Applications of AI and Data Analytics Symposium* - "Use of Chatbots in Medical Education," Oakland University|
 | *06.2023* | Won [SAS Hacakthon 2023](https://www.oakland.edu/news/business/oakland-universitys-school-of-business-team-emerges-victorious-in-2023-sas-hackathon/) in Forecasting track|
-<!-- | *01.2025* | Started my PhD journey at OU| -->
 
 ---
 
@@ -45,21 +44,15 @@ Oakland University · Rochester, MI · 2025 – Present
 
 Working under the supervision of [Dr. Yao Qiang](https://qiangyao1988.github.io/) in the Secure, Aligned, Fair, and Ethical (SAFE) AI Research Lab.
 
----
-
 **M.S. in Business Analytics**
 Oakland University · Rochester, MI · *2022 – 2024*
 
 Coursework in machine learning, AI ethics, data-driven decision making, and statistical modeling.
 
----
-
 **M.B.A. in Finance**
 BITS Pilani · India · *2019 – 2020*
 
 Specialization in corporate finance, capital budgeting, and quantitative business analysis.
-
----
 
 **B.Tech in Computer Science and Engineering**
 Amrita University · India · *2011 – 2015*
