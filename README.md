@@ -1,13 +1,11 @@
 # Aswini Sivakumar
+<img src="profilepic.jpg" alt="Aswini Sivakumar" width="150" style="border-radius: 10%;" />
 
 PhD Student in Computer Science · Oakland University, Rochester MI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswini-sivakumar-msmba/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AswiniS94) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=aswinisivakumar@oakland.edu)
 
-<img src="profilepic.jpg" alt="Aswini Sivakumar" width="150" style="border-radius: 10%;" />
-
 ---
-
 ## About
 
 I am a PhD student in Computer Science at Oakland University, working at the intersection of computer vision, autonomous systems, and vision-language models. My research focuses on building systems that can perceive, reason, and act in complex real-world environments using retrieval-augmented generation and contrastive learning.
