@@ -18,6 +18,8 @@ I am a PhD student in Computer Science at Oakland University, working at the int
 
 | Date | Update |
 |------|--------|
+| *08.2026* | Our paper titled *RAG-X: Systematic Diagnosis of Retrieval-Augmented Generation for Medical Question Answering* got accepted in **CIKM 2026 Short Paper Track**|
+| *04.2026* | Presented at the *Oakland University Institute for Data Science (IDaS) & DAMOS NRT Annual Symposium* - "A Practical Approach to RAG Evaluation" Oakland University|
 | *12.2025* | Won [SAS Hacakthon 2025](https://www.oakland.edu/news/business/2026/hackathon/) in two tracks - SAS Viya Workbench and Sustainability|
 | *01.2025* | Started my PhD at Oakland University|
 | *11.2024* | Won [SAS Hacakthon 2024](https://www.oakland.edu/news/business/2024/ou-business-students-continue-winning-ways-at-2024-sas-hackathon/) in Energy track|
